@@ -1,0 +1,24 @@
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+************* Module test_constant
+test_constant.py:31:12: C9991: A constant variable's value changes. (constant-value-change)
+ASSIGNMENT
+test_constant.py:32:12: C9991: A constant variable's value changes. (constant-value-change)
+ASSIGNMENT
+test_constant.py:37:12: C9991: A constant variable's value changes. (constant-value-change)
+ASSIGNMENT
+ASSIGNMENT
+ASSIGNMENT
+
+------------------------------------------------------------------
+Your code has been rated at 8.97/10 (previous run: 8.97/10, +0.00)
