@@ -43,7 +43,7 @@ class ConstantChecker(BaseChecker):
                 if isinstance(node.value, nodes.Const):
                     if node.targets[i].name not in self._module_variable_dict:
                         self._module_variable_dict[node.targets[i].name] = node.value.value
-                        return
+                        continue
             if node.targets[i].name in self._module_variable_dict:
                 if not isinstance(node.value, nodes.Const):
                     if isinstance(node.value, nodes.BinOp):
