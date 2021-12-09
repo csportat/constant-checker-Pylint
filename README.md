@@ -1,5 +1,5 @@
 # constant-checker-Pylint
-A Pylint checker to check conventional Python CONSTANT variables
+A Pylint checker for validating whether a constant candidate is a constant
 
 To use this checker and the test file, please install Pylint and Python 3.7+\
 Then put the constant_checker.py into the the Pylint package path /pylint/checkers/ \
